@@ -1,6 +1,6 @@
 import { Frase } from './../shared/model/frase.model';
 
-const FRASES : Frase [] = [
+export const FRASES : Frase [] = [
     {fraseEng:'I like to leart' , frasePtBr: 'Eu gosto de aprender'},
     {fraseEng:'How are you?' , frasePtBr: 'Como vai você?'},
     {fraseEng:'I watch tv' , frasePtBr: 'Eu assisto tv'},
