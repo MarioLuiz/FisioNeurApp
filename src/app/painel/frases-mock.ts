@@ -10,6 +10,5 @@ export const FRASES : Frase [] = [
     {fraseEng:'Today is a beautiful day to stroll in the park' , frasePtBr: 'Hoje está um belo dia para passear no parque'},
     {fraseEng:'It looks like it will rain today' , frasePtBr: 'Parece que irá chover hoje'},
     {fraseEng:'Does this dress make me fat?' , frasePtBr: 'Este vestido me deixa gorda?'},
-    {fraseEng:'I love to draw dogs' , frasePtBr: 'Eu amo desenhar cachorros'},
-    {fraseEng:'How are you doing?' , frasePtBr: 'How are you doing?'}
+    {fraseEng:'I love to draw dogs' , frasePtBr: 'Eu amo desenhar cachorros'}
 ];
