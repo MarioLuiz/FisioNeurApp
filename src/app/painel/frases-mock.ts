@@ -4,7 +4,7 @@ export const FRASES : Frase [] = [
     {fraseEng:'I like to leart' , frasePtBr: 'Eu gosto de aprender'},
     {fraseEng:'How are you?' , frasePtBr: 'Como vai você?'},
     {fraseEng:'I watch tv' , frasePtBr: 'Eu assisto tv'},
-    {fraseEng:'I like apple' , frasePtBr: 'Eu gosto de maça'},
+    {fraseEng:'I like apple' , frasePtBr: 'Eu gosto de maçã'},
     {fraseEng:'I watch sports' , frasePtBr: 'Eu assisto esportes'},
     {fraseEng:'I like pineapple' , frasePtBr: 'Eu gosto de abacaxi'},
     {fraseEng:'Today is a beautiful day to stroll in the park' , frasePtBr: 'Hoje está um belo dia para passear no parque'},
