@@ -52,7 +52,7 @@ export class PainelComponent implements OnInit, OnDestroy {
       //console.log('this.progresso: ', this.progresso);
 
       if (this.rodada === 10) {
-        alert('Concluiu as traduções com sucesso!')
+        //alert('Concluiu as traduções com sucesso!')
         this.encerrarJogo.emit('vitoria');
       }
 
@@ -63,7 +63,7 @@ export class PainelComponent implements OnInit, OnDestroy {
       //alert('A tradução está errada');
       this.tentativas--;
       if (this.tentativas === -1) {
-        alert('Você perdeu todas as tentativas');
+        //alert('Você perdeu todas as tentativas');
         this.encerrarJogo.emit('derrota');
       }
     }
